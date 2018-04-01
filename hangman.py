@@ -1,3 +1,5 @@
+# This is a basic Hangman game. Have used this code from book Invent Your Own Computer Games with Python , 4th Edition
+
 import random
 HANGMAN_PICS = ['''
   +---+
